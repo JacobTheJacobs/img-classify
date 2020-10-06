@@ -1,5 +1,5 @@
 .Python
-env/
+venv/
 develop-eggs/
 dist/
 eggs/
