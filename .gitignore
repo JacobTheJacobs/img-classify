@@ -1,16 +1,14 @@
-.Python
+# Global
+.DS_Store
+.env
+
+# Environments
 venv/
-develop-eggs/
-dist/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-opencvClassify/
+env/
+.venv/
+.idea/
+.vscode/
+
+# SQLite
+db.sqlite3
+*.sqlite3
